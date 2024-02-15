@@ -18,6 +18,7 @@ library(lme4)
 library(broom) # for model residuals extraction
 library(emmeans) # for model mean extraction
 library(multcomp) # for pairwise comparison letter display
+library(multcompView)
 ```
 
 **IMPORTANT NOTE**:  
